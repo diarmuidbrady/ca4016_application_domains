@@ -14,7 +14,7 @@ It includes both sleep metrics (Total Sleep Time, Sleep Onset Latency etc.) and 
 
 ### Fitbit Data
 This data is exported from Fitbit from 30/09/2022 to 25/11/2022 and saved locally.
-It includes both activity (Steps, Heart rate, Activity Minutes etc.) and Sleep tracking data (Total Sleep Time, Wakefulness After Sleep Onset etc.)
+It includes both activity (Steps, Heart rate, Activity Minutes etc.) and Sleep tracking data (Total Sleep Time, Wakefulness After Sleep Onset).
 
 ### CBT Thought Diary Data
 This is exported in bulk as text file from the phone app and saved to iCloud storage.
@@ -25,13 +25,19 @@ None of the data is present on Github for data privacy.
 There are number of directories, each with a specific purpose.
 
 ### Deliverables
-Contains the LaTex report documenting the project.
+Contains the LaTex report documenting the project along with the bibtex file containing citations to support the document.
 
 ### Environments
 This includes a yml environment file and is used to set up the environment with all relevant libraries and packages.
+
+### Models
+Include several models used in the analysis for prediction tasks.
 
 ### Notebooks
 All the notebooks used for data importing, cleaning, processing, engineering, analysing, modelling, and visualising are stored here.
 
 ### Specification
 Contains the specification for the project assigned by our lecturer Dr.Cathal Gurrin.
+
+### Visuals
+All visuals outputted from Jupyter Notebook have been saved here.
