@@ -31,7 +31,7 @@ Contains the LaTex report documenting the project.
 This includes a yml environment file and is used to set up the environment with all relevant libraries and packages.
 
 ### Notebooks
-All the notebooks used for data importing, cleaning, processing, engineering, analysing, modelling, visualising and all other steps in the process stored here.
+All the notebooks used for data importing, cleaning, processing, engineering, analysing, modelling, and visualising are stored here.
 
 ### Specification
-Contains the specification for the project assigned by our lecturer Dr. Cathal Gurrin.
+Contains the specification for the project assigned by our lecturer Dr.Cathal Gurrin.
